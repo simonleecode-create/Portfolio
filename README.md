@@ -1,4 +1,4 @@
-﻿# Simon Lee Portfolio
+# Simon Lee Portfolio
 
 React and Three.js portfolio with a 3D background, loading and welcome screens, animated project details, a typewriter introduction, and a custom cursor.
 
